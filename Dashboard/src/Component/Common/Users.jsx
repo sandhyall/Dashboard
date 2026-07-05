@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Search, AlertCircle } from "lucide-react";
-import UserCard from "./UserCard";
+import UserCard from "../Common/UserCard";
 
 const Users = () => {
   const [users, setUsers] = useState([]);

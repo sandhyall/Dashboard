@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Layout from "./Component/UserLayout/Layout";
 import Dashboard from "./Component/Common/Dashboard";
-import AddPost from "./Component/Common/AddPost";
+import AddPost from "./Component/Common/Addpost";
 import DisplayPost from "./Component/Common/DisplayPost";
 import Users from "./Component/Common/Users";
 import UserPosts from "./Pages/UserPosts";
